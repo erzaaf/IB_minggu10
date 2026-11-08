@@ -4,7 +4,8 @@
 
 Mendiagnosis penyebab gangguan internet dari sejumlah Fakta Awal menggunakan **8 aturan
 produksi IF-THEN** yang masing-masing memiliki prioritas (salience), lalu membuktikan goal
-tertentu dengan penalaran mundur.
+tertentu dengan penalaran mundur. 
+
 ---
 
 ## 1. Basis Pengetahuan
